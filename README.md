@@ -85,4 +85,5 @@ I'm currently focused on learning how to build complete software applications, i
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-198754?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallen-jo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-198754?style=for-the-badge&logo=linkedin&logoColor=white)](
+www.linkedin.com/in/kallen-joos-1792b6236)
